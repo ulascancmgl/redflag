@@ -35,7 +35,7 @@ class _HomePageState extends State<HomePage> {
           ),
         ],
         title: const Center(
-          child: Text('Red Flag', style: AppStyles.bodyLargeText),
+          child: Text('Flaggio', style: AppStyles.bodyLargeText),
         ),
       ),
       endDrawer: AppDrawer(
