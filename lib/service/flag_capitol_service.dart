@@ -1,0 +1,1 @@
+//functions that are associeted with flag_capitol model
